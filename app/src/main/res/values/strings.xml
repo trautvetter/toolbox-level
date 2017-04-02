@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Level</string>
+
+    <string name="action_about">About</string>
+
+    <string name="website_url" translatable="false">http://www.coffeeshot.com</string>
+
+    <!-- Title of the navigation item to go to coffeeshot website [CHAR_LIMIT=25] -->
+    <string name="navigation_item_web_link">Coffeeshot website</string>
+
+    <!-- Title of a settings item that displays the app's version [CHAR_LIMIT=25]-->
+    <string name="settings_version_title">Version</string>
+
+    <!-- Title of a settings item that displays the app's open source licenses [CHAR_LIMIT=25]-->
+    <string name="settings_open_source_title">Open source licenses</string>
+
+    <!-- Message shown in license screen if no licenses were found [CHAR_LIMIT=NONE]-->
+    <string name="licenses_empty">No licenses found.</string>
+
+    <!-- Title of the navigation item to show settings [CHAR_LIMIT=25] -->
+    <string name="navigation_item_settings">Settings</string>
+
+</resources>

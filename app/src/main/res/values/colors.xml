@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="altColorAccent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="level_background_color">@color/colorPrimary</color>
+    <color name="level_mark_color">@color/colorPrimaryDark</color>
+    <color name="level_edge_color">@color/colorPrimaryLight</color>
+    <color name="level_bubble_color">@color/altColorAccent</color>
+    <color name="level_bubble_color_centered">@color/colorAccent</color>
+
+</resources>
